@@ -1,5 +1,6 @@
-<img src="https://camo.githubusercontent.com/e5b0dc34edf0960e8d3f6eaaf80c652e478f8590e7377d5bb10d44441d4075cd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323034382f312a4f6f687157354447683943515334684c593546587a412e706e67"><br><hr><br>
-
+<p align="center">
+<img src="https://camo.githubusercontent.com/e5b0dc34edf0960e8d3f6eaaf80c652e478f8590e7377d5bb10d44441d4075cd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323034382f312a4f6f687157354447683943515334684c593546587a412e706e67" width=500px >
+</p><hr>
 <h1 align="center"><b>Hi , I'm Tejal Mohod</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"> 
